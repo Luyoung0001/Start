@@ -1,0 +1,1 @@
+package day01;public class Test {    public static void main(String[] args) {        Person p = new Person();        p.setAge(55);        p.speak();        Student stu = new Student();        stu.setAge(15);        stu.speak();    }}

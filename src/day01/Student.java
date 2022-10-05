@@ -1,0 +1,1 @@
+package day01;public class Student extends Person{    @Override    public void speak(){        System.out.println("Hello, I am a " + this.getAge() + " yeas old student!");    }}
